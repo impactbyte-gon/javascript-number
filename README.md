@@ -1,0 +1,2 @@
+# javascript-number
+JavaScript Number
